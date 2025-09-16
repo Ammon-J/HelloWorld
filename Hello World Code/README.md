@@ -8,7 +8,7 @@ This is a simple asp.net website to display "Hello World"
 Steps to build and/or run the software:
 
 1. Download project off of GitHub
-2. Select "HelloWorld.sln" solution in Microsoft Visual studio (file should be located is your downloads folder by default"
+2. Select "HelloWorld.sln" solution in Microsoft Visual studio (file should be located in your downloads folder by default"
 3. Run/Build with IIs express 
 
 Instructions for using the software:
@@ -39,4 +39,5 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] I would use more of a basic html project
 * [ ] I would like to add animations for the text
+
 * [ ] Add a background image to add more of a futuristic feeling
