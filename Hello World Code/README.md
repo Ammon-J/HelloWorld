@@ -27,11 +27,7 @@ To recreate the development environment, you need the following software and/or 
 
 ## Useful Websites to Learn More
 
-I found these websites useful in developing this software:
-
-* [Website Title](Link)
-*
-*
+I did not use any websites to help build this project
 
 ## Future Work
 
@@ -41,3 +37,4 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 * [ ] I would like to add animations for the text
 
 * [ ] Add a background image to add more of a futuristic feeling
+
