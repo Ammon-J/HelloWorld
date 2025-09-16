@@ -27,7 +27,7 @@ To recreate the development environment, you need the following software and/or 
 
 ## Useful Websites to Learn More
 
-I did not use any websites to help build this project
+[W3 Schools] (https://www.w3schools.com/css/)
 
 ## Future Work
 
